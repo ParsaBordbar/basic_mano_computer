@@ -1,8 +1,6 @@
 ![common-bus32](https://github.com/ParsaBordbar/basic_computer/assets/124056966/6290b960-1e38-4baf-8a86-25323edfd7ac)
 
 
-Sure, here's a description for your GitHub repository:
-
 # Mano Computer in VHDL
 
 This repository contains the VHDL implementation of the Mano Computer, a basic computer architecture designed by M. Morris Mano. The Mano Computer is a simple digital system that includes a CPU, memory, and I/O devices.
