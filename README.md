@@ -35,8 +35,3 @@ Each component is implemented as a separate VHDL entity. To use these components
 
 Please note that this is a complex task and requires a good understanding of VHDL and computer architecture. It's recommended to refer to a textbook like "Digital Design and Computer Architecture" by M. Mano for a comprehensive understanding.
 
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before making any changes.
-
-Happy coding! 😊
